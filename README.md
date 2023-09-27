@@ -2,7 +2,7 @@
 - 📚 Systems Analysis and Development Student
 - 📫 How to contact me:
     - Email:seguraslesseticia@gmail.com
-    - https://www.linkedin.com/in/leticia-segurasse-360329268/
+    - https://www.linkedin.com/in/leticiasegurasse/
 
 <!---
 leticiasegurasse/leticiasegurasse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
