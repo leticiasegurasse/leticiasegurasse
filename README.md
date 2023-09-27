@@ -1,6 +1,5 @@
 - 👋 Hello, I am @leticiasegurasse
 - 📚 Systems Analysis and Development Student
-- 💻 I am currently specializing in Python and Django
 - 📫 How to contact me:
     - Email:seguraslesseticia@gmail.com
     - https://www.linkedin.com/in/leticia-segurasse-360329268/
