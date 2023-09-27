@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @leticiasegurasse
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:
-   - Email: segurasseleticia@gmail.com
-   - https://www.linkedin.com/in/leticia-segurasse-360329268/
+- 👋 Hello, I am @leticiasegurasse
+- 📚 Systems Analysis and Development Student
+- 💻 I am currently specializing in Python and Django
+- 📫 How to contact me:
+    - Email:seguraslesseticia@gmail.com
+    - https://www.linkedin.com/in/leticia-segurasse-360329268/
 
 <!---
 leticiasegurasse/leticiasegurasse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
