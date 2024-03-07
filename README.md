@@ -3,6 +3,7 @@
 - 📫 How to contact me:
     - Email:seguraslesseticia@gmail.com
     - https://www.linkedin.com/in/leticiasegurasse/
+    - https://sgrdeveloper.com/
 
 <!---
 leticiasegurasse/leticiasegurasse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
